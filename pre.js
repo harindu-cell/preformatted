@@ -14,10 +14,10 @@ buttonElement.addEventListener("click",
     }
 );
 
-let userName = prompt("Please enter your name", "Your Name");
-if (userName) {
-    alert("Welcome, " + userName + "!");
-}
+//let userName = prompt("Please enter your name", "Your Name");
+// if (userName) {
+//     alert("Welcome, " + userName + "!");
+// }
 
-let num = prompt("hello");
-alert(num);
+// let num = prompt("hello");
+// alert(num);
