@@ -1,0 +1,7 @@
+body{
+    background-image: url("../images/background/wallhaven-gpgyed_3840x2160.png");
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
